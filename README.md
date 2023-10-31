@@ -1,2 +1,2 @@
 # document-template
-Blank Document Template
+My custom `Typst` template for writing documents. 
