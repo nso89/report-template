@@ -1,2 +1,2 @@
 # document-template
-My custom `Typst` template for writing documents. 
+My custom `Typst` template for writing reports.
